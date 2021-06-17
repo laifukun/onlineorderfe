@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Menu, Button, List } from 'antd';
 
-// business admin
+// business admin version 2
 
 const BusinessAdmin = () => {
     return (
