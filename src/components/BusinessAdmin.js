@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import { Menu, Button, List } from 'antd';
 
-//admin component
+// business admin
+
 const BusinessAdmin = () => {
     return (
         <div>
